@@ -1,0 +1,24 @@
+{
+  "componentTypes": [
+    {
+      "name": "Линзы",
+      "color": "yellow"
+    },
+    {
+      "name": "Рефлекторы",
+      "color": "pink lighten-3"
+    },
+    {
+      "name": "Тиристорные модули",
+      "color": "green"
+    },
+    {
+      "name": "Тиристорно-диодные модули",
+      "color": "cyan lighten-3"
+    }, 
+    {
+      "name": "Диодные модули",
+      "color": ""
+    }     
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "brands": [
+    {
+      "name": "Darkoo Optics",
+      "country": "Китай",
+      "site": "https://www.darkoo.cc/",
+      "compTypes": ["Линзы", "Рефлекторы"],
+      "notes": ""
+    },
+    {
+      "name": "Huajing",
+      "country": "Китай",
+      "site": "https://www.thyristor.com.cn/",
+      "compTypes": ["Тиристорные модули", "Тиристорно-диодные модули", "Диодные модули"],
+      "notes": ""
+    },
+    {
+      "name": "Optiks Mechatronics",
+      "country": "Индия",
+      "site": "https://optiksmechatronics.com/",
+      "compTypes": ["Линзы"],
+      "notes": "До 2022г. в основном торговали на индийском и китайском рынках, поэтому их продукция пока не сильно адаптирована под наш рынок, однако есть варианты полных аналогов модульных линз Ledil IP-2X6, IP-28, 2X2 и пр., а так же одиночные линзы."
+    }
+  ]
+}
